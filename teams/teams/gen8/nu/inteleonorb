@@ -43,10 +43,11 @@ Ability: Torrent
 Shiny: Yes  
 EVs: 24 HP / 252 SpA / 232 Spe  
 Timid Nature  
+IVs: 0 Atk  
 - Hydro Pump  
 - Ice Beam  
 - Dark Pulse  
-- U-turn  
+- Agility  
 
 Escavalier @ Leftovers  
 Ability: Shell Armor  
