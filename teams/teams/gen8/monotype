@@ -1,55 +1,56 @@
-Ferrothorn @ Leftovers
-Ability: Iron Barbs
-EVs: 252 HP / 252 Def / 4 SpD
-Impish Nature
-- Protect
-- Power Whip
-- Leech Seed
-- Spikes
-
-Aegislash @ Leftovers
-Ability: Stance Change
-EVs: 252 HP / 4 SpA / 252 SpD
-Calm Nature
+Tapu Koko @ Life Orb
+Ability: Electric Surge
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
 IVs: 0 Atk
-- Substitute
-- Toxic
-- King's Shield
+- Thunderbolt
+- Grass Knot
+- Dazzling Gleam
+- Roost
+
+Tapu Lele @ Choice Specs
+Ability: Psychic Surge
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
 - Shadow Ball
+- Psyshock
+- Moonblast
+- Focus Blast
 
-Heatran @ Leftovers
-Ability: Flash Fire
-EVs: 252 HP / 216 SpD / 40 Spe
-Calm Nature
-IVs: 0 Atk
-- Protect
-- Lava Plume
-- Earth Power
-- Toxic
-
-Celesteela @ Leftovers
-Ability: Beast Boost
-EVs: 252 HP / 252 Def / 4 SpD
-Relaxed Nature
-- Protect
-- Heavy Slam
-- Flamethrower
-- Leech Seed
-
-Melmetal @ Choice Band
-Ability: Iron Fist
-EVs: 240 HP / 252 Atk / 16 Spe
-Adamant Nature
-- Double Iron Bash
-- Earthquake
-- Thunder Punch
-- Superpower
-
-Excadrill @ Choice Scarf
-Ability: Mold Breaker
+Tapu Bulu @ Choice Scarf
+Ability: Grassy Surge
 EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature
-- Earthquake
-- Iron Head
-- Toxic
-- Rock Slide
+- Wood Hammer
+- Stone Edge
+- Horn Leech
+- High Horsepower
+
+Azumarill @ Sitrus Berry
+Ability: Huge Power
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Substitute
+- Belly Drum
+- Knock Off
+- Aqua Jet
+
+Klefki @ Light Clay
+Ability: Prankster
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 0 Atk
+- Reflect
+- Light Screen
+- Spikes
+- Thunder Wave
+
+Clefable @ Rocky Helmet
+Ability: Magic Guard
+EVs: 252 HP / 240 Def / 16 Spe
+Bold Nature
+- Stealth Rock
+- Soft-Boiled
+- Moonblast
+- Knock Off
