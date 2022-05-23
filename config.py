@@ -11,8 +11,8 @@ pokemon_mode = None
 run_count = None
 user_to_challenge = None
 gambit_exe_path = ""
-greeting_message = ''
-battle_ending_message = ''
+greeting_message = 'glhf'
+battle_ending_message = 'gg'
 room_name = None
 
 use_relative_weights = False
